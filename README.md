@@ -1,0 +1,2 @@
+# newmnmrepo
+devops cicd pipline 
